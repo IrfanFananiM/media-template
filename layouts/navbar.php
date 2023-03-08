@@ -1,3 +1,16 @@
+<div class="container-fluid">
+
+    <div class="row align-items-center py-2 px-lg-5">
+        <div class="col-lg-4">
+            <a href="" class="navbar-brand d-none d-lg-block">
+                <h1 class="m-0 display-5 text-uppercase"><span class="text-primary">News</span>Room</h1>
+            </a>
+        </div>
+        <div class="col-lg-8 text-center text-lg-right">
+            <img class="img-fluid" src="img/ads-700x70.jpg" alt="">
+        </div>
+    </div>
+</div>
 <div class="container-fluid p-0">
     <nav class="navbar navbar-expand-lg bg-light navbar-light py-2 py-lg-0 px-lg-5">
         <a href="" class="navbar-brand d-block d-lg-none">
