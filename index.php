@@ -6,7 +6,7 @@
   <!-- Navbar End -->
 
   <!-- Main News Slider Start -->
-  <div class="container-fluid py-3">
+  <div class="container-fluid py-5">
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
