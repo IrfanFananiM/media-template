@@ -19,15 +19,17 @@
           <?php include('layouts/editor.php') ?>
           <!-- End Pilihan Editor -->
 
+          <!-- Berita Terkini -->
+          <?php include('layouts/berita.php') ?>
+          <!-- End Berita Terkini -->
+
         </div>
 
         <!-- Populer -->
         <?php include('layouts/populer.php') ?>
         <!-- End Populer -->
 
-        <!-- Berita Terkini -->
-        <?php include('layouts/berita.php') ?>
-        <!-- End Berita Terkini -->
+
 
       </div>
     </div>
