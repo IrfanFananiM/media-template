@@ -24,6 +24,11 @@
         <!-- Populer -->
         <?php include('layouts/populer.php') ?>
         <!-- End Populer -->
+
+        <!-- Berita Terkini -->
+        <?php include('layouts/berita.php') ?>
+        <!-- End Berita Terkini -->
+
       </div>
     </div>
   </div>
